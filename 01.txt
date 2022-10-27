@@ -1,0 +1,3 @@
+La forma más sencilla de hacerlo es agregando el siguiente tag HTML a tu página, usando el atributo “onclick” para llamar el JavaScript que va a abrir el archivo en tu navegador o descargarlo al ocurrir el evento “click”:
+
+<button type="button" 
