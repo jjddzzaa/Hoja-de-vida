@@ -9,9 +9,9 @@ body {
 	padding-left: 2.275%;
 	padding-right: 2.275%;
 
-	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background: linear-gradient(-15deg, #dd6f07, #07ad1d, #3a45e0, #f23cf8);
 	background-size: 400% 400%;
-	animation: gradient 15s ease infinite;
+	animation: gradient 5s ease infinite;
 	height: 100vh;
 }
 
@@ -48,10 +48,10 @@ header .logoPlaceholder span {
 	line-height: 53px;
 }
 header .profilePhoto {
-	background-color: rgba(237,237,237,1.00);
-	width: 259px;
+	
+	width: 250px;
 	border-radius: 50%;
-	height: 259px;
+	height: 250px;
 	clear: both;
 }
 header .profileHeader h1 {
@@ -149,7 +149,7 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 	display: block;
 }
 .mainContent .externalResourcesNav .externalResources {
-	background-color: rgba(208,207,207,1.00);
+	background-color: rgb(104, 20, 20);
 	display: inline-block;
 	text-align: center;
 	margin-top: 0px;
@@ -418,4 +418,4 @@ footer .footerNote {
 	margin-right: 3%;
 	font-family: sans-serif;
 }
-}
+
